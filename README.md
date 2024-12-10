@@ -16,4 +16,4 @@ This is one of my first projects. On this tribute page, you will find a brief bi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+  git clone https://github.com/yourusername/yourprojectname.git](https://github.com/Inna-Staff/Tribute-Page.git
